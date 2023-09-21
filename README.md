@@ -48,3 +48,10 @@ The dataset used for this project consists of protein sequences from human and c
 
 ## Results
 The machine learning models demonstrate promising performance in distinguishing between human and chimpanzee DNA sequences for the specified protein categories. The project provides comprehensive results and visualizations for further analysis.
+
+## Contributing
+Contributions to this project are welcome. You can contribute by:
+
+- Opening issues to report bugs or suggest improvements.
+- Forking the repository and creating pull requests to add new features or fix issues.
+License
